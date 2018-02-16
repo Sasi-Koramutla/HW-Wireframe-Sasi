@@ -50,23 +50,43 @@
         color:#777;
             }    
     #article {
-        background-color: #ebebeb;
+        position: relative;
+        top: -250px;
+        left: 10px;
+        background-color: #777;
         padding: 20px;
         margin-left: 200px;
         margin-bottom: 20px;
-        width:960px;
-        color:#777;
+        width:520px;
+        height: 220px;
+        color:#ebebeb;
             }  
     #h1h2h3 {
+        position: relative;
+        top: -430px;
+        left: 30px;
+        background-color: #ebebeb;
+        padding: 20px;
+        margin-left: 200px;
+        margin-bottom: 10px;
+        width:480px;
+        color:#777;
+            }
+    #p {
+        
+        position: relative;
+        top: -430px;
+        left: 30px;
         background-color: #ebebeb;
         padding: 20px;
         margin-left: 200px;
         margin-bottom: 20px;
-        width:960px;
+        width:480px;
         color:#777;
-            }
-              
+            }              
      footer {
+        position: relative;
+        top: -410px;        
         background-color: #ebebeb;
         padding: 20px;
         margin-left: 200px;
