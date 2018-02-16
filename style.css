@@ -14,74 +14,63 @@
     header {
            background-color: #ebebeb;
            padding: 20px;
-           margin-bottom: 20px;
+           margin-left: 200px;
+           margin-bottom: 10px;
+           width:960px;
            color:#777;
           }
     
-    section {
-            height: 60px; 
-            padding: 20px;
-            margin-bottom: 20px;
+    #nav {
+        background-color: #ebebeb;
+        padding: 20px;
+        margin-left: 200px;
+        margin-bottom: 20px;
+        width:960px;
+        color:#777;
             }
-    
-    #left {
-          background-color:#666;
-          width: 33.333%;
-          color: white;
-          float: left;
-          }
-    
-      #middle {
-               background-color:#888;
-               width: 33.333%;
-               color: white;
-               float: left;
-              }
-    
-    
-      #right {
-              background-color:#666;
-              width: 33.333%;
-              color: white;
-              float: left;
-              } 
-    
-    #full {
-           clear: both;
-           background-color:#eee;
-           overflow: auto;
-           width: 100%;
-           height:200px;
-           }
-    
-    #div {
-            position: relative;
-            top: -160px;
-            background-color:#6ea3da;
-            padding: 20px;
-            margin-top: 20px;
-            margin-left: 20px;
-            margin-right: 20px;
+
+    #section {
+        background-color: #ebebeb;
+        padding: 20px;
+        margin-left: 200px;
+        margin-bottom: 20px;
+        width:540px;
+        height: 300px;
+        color:#777;
+        float: left;
             }
-    
+
     #aside {
-             position: relative;
-             top: -280px;
-             left: 20px;
-             background-color:#fff;
-              width: 33%;
-              height: 160px;
-              border: 1px solid #eee;
-              float: left;
-              margin-left: 30px;
-              padding: 20px;
-              }
+        background-color: #ebebeb;
+        padding: 20px;
+        margin-left: 760px;
+        margin-bottom: 20px;
+        width:400px;
+        height: 300px;
+        color:#777;
+            }    
+    #article {
+        background-color: #ebebeb;
+        padding: 20px;
+        margin-left: 200px;
+        margin-bottom: 20px;
+        width:960px;
+        color:#777;
+            }  
+    #h1h2h3 {
+        background-color: #ebebeb;
+        padding: 20px;
+        margin-left: 200px;
+        margin-bottom: 20px;
+        width:960px;
+        color:#777;
+            }
               
      footer {
-            position: relative;
-            top: -80px;
-            background-color: #ccc;
-            padding: 20px;
-            margin-bottom: 20px;
-            color:#333;
+        background-color: #ebebeb;
+        padding: 20px;
+        margin-left: 200px;
+        margin-bottom: 20px;
+        width:960px;
+        color:#777;
             }
